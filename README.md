@@ -16,7 +16,7 @@ SyncGitHub is a Node.js script that allows you to synchronize your GitHub projec
 ## Usage
 1. Modify the `data/project.ts` file by adding the names of your GitHub projects to the `projectNameList` array.
 2. Install dependencies using `yarn install` or `npm install` command.
-3. Run the script using `yarn start` or `npm start` command.
+3. Run the script using `yarn dev` or `npm dev` command.
 4. Follow the instructions displayed in the console to synchronize your projects.
 
 ## Contribution
