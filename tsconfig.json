@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true
+  },
+  "compileOnSave": true,
+  "include": ["./index.ts"]
+}
