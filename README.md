@@ -1,5 +1,7 @@
 # SyncGitHub
 
+![ezgif-4-8d0b2fafe0](https://github.com/MDrapala/SyncMyPersonnalGithub/assets/34813044/6667c098-9a91-458e-b107-76c03a822244)
+
 ## Description
 SyncGitHub is a Node.js script that allows you to synchronize your GitHub projects on your computer. You can clone all your GitHub projects into a specific folder on your desktop and choose whether to delete and recreate this folder or leave it intact.
 
